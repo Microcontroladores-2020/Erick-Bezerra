@@ -15,7 +15,7 @@ PIC16F877A.
 O objetivo do projeto é fazer com que LEDs ligados ao microcontrolador acendam de forma 
 sequencial sendo que sempre deve haver um LED aceso durante o loop.
 
-# Projeto 3: 003display7segNoDelay
+## Projeto 3: 003display7segNoDelay
 
 Este projeto foi realizado no simulador PICsimulatorIDE e o microcontrolador do projeto é o
 PIC16F877A.
